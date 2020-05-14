@@ -13,7 +13,7 @@ sed -i 's/192.168.1.1/192.168.10.1/g' package/base-files/files/bin/config_genera
 sed -i "/CYXluq4wUazHjmCDBCqXF/d" package/lean/default-settings/files/zzz-default-settings
 sed -i 's/OpenWrt/AutoBuild $(date "+%Y.%m.%d") @ OpenWrt/g' package/lean/default-settings/files/zzz-default-settings
 # git clone https://github.com/sypopo/luci-theme-atmaterial.git package/lean/luci-theme-atmaterial
-# git clone https://github.com/tzxiaozhen88/luci-app-koolproxyR.git package/lean/luci-app-koolproxyR
+git clone https://github.com/tzxiaozhen88/luci-app-koolproxyR.git package/lean/luci-app-koolproxyR
 # git clone https://github.com/vernesong/OpenClash.git package/lean/luci-app-openclash 
 # git clone https://github.com/lisaac/luci-lib-docker.git package/luci-lib-docker
 # git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
