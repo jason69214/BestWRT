@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jason69214 
-P3TERX
-/
-Actions-OpenWrt
-Template
-58
-1.8k2.8k
-Code
-Issues
-15
-Pull requests
-Actions
-Security
-Insights
-Actions-OpenWrt/.github/workflows/build-openwrt.yml
-@P3TERX
-P3TERX .
-Latest commit bef740f on 6 Jun
- History
- 1 contributor
-152 lines (132 sloc)  4.69 KB
-  
 #=================================================
 # https://github.com/P3TERX/Actions-OpenWrt
 # Description: Build OpenWrt using GitHub Actions
